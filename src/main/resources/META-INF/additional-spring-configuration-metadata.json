@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "api.holiday.url",
+      "type": "java.lang.String",
+      "description": "Description for api.holiday.url."
+  }
+] }

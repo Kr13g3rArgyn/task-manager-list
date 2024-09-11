@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: TaskManager
+  datasource:
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+  cache:
+    type: simple
+
+
+api:
+  holiday:
+    url: https://date.nager.at/api/v3/publicholidays
